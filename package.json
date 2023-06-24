@@ -4,6 +4,7 @@
   "description": "this a sample electron app based on the tutorial by the electronjs.org",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
