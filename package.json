@@ -1,0 +1,22 @@
+{
+  "name": "basicelectronapp",
+  "version": "1.0.0",
+  "description": "this a sample electron app based on the tutorial by the electronjs.org",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sailin-a100r/basicElectronApp.git"
+  },
+  "author": "Sailin-a100r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sailin-a100r/basicElectronApp/issues"
+  },
+  "homepage": "https://github.com/Sailin-a100r/basicElectronApp#readme",
+  "devDependencies": {
+    "electron": "^25.2.0"
+  }
+}
